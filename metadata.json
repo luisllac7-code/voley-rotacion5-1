@@ -1,0 +1,8 @@
+{
+  "name": "Haikyuu 5-1 Volleyball Rotation & Roles",
+  "description": "Guía táctica e interactiva del voley con simulador del sistema de rotación 5-1, roles de jugadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
